@@ -18,4 +18,4 @@ A modern business website built to practice real-world front-end development.
 To improve front-end development skills and build real company-style layouts.
 
 ## Author
-Seyed Mahdi Mousavi
+Mahdi Mousavi
